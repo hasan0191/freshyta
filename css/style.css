@@ -368,7 +368,7 @@ input[type=checkbox], input[type=radio] {
 /*product area*/
 .product-area{
 	background-color: white;
-	height: 500px;
+	height: 100%;
 	width: 100%;
 	border-radius: 10px;
 	margin-top: 20px;
@@ -455,6 +455,10 @@ input[type=checkbox], input[type=radio] {
 	border-radius: 10px;
 	border: 1px solid #ee4054;
 }
+.proActive{
+	bottom: 0px;
+}
+
 .product-area .single-product .when-cart-hover ul li{
 	list-style: none;
 }
